@@ -147,11 +147,11 @@
 
 #### Current students
 
-1. Dimitrios Konstantinou, PhD student
-2. Dimitrios Mangiras, PhD student
-3. Apostolos Stefanidis, PhD student
+1. Dimitrios Konstantinou, PhD student, working on "Physically scalable heterogeneous network on chip architectures"
+2. Dimitrios Mangiras, PhD student, working on "Timing optimization techniques for scalable physical synthesis of digital integrated circuits"
+3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
 
-4. Dionissis Filippas, MSc student, "High level synthesis of data clustering accelerators"
+4. Dionissis Filippas, MSc student, working on "High level synthesis of data clustering accelerators"
 
 plus eight more undegrads working on their final-year thesis project
 
@@ -201,28 +201,17 @@ plus eight more undegrads working on their final-year thesis project
 #### PhD thesis review committee member
 
 1. Dario Suarez Gracia, University of Zaragoza, Spain, Nov. 2011 Advisor: Victor Vinals
-
 2. Αna Βosque, University of Zaragoza, Spain, Nov. 2011 Advisors: José M. Llabería, Pablo Ibáñez, Victor Vinals
-
 3. Antoni Roca, Universitat Politècnica de València (UPV), Spain, 2012 Advisor: Jose Flich
-
 4. Ioannis Kouretas, University of Patras, July 2012, Advisor: Vassilis Paliouras
-
 5. Nikita Nikitin, Universitat Politècnica de Catalunya (UPC), Spain, April 2013, Advisor: Jordi Cortadella
-
 6. Pavlos Mattheakis, University of Crete, May 2013, Advisor: Christos Sotiriou
-
 7. Ahsen Ejaz, Chalmers University of Technology, Gotenborg, Sweden, Sept. 2018. (Licentiate Thesis) Advisor: Ioannis Sourdis
-
 8. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
-
 9. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: Prof. V. Paliouras
-
 10. Savvas Moisidis, Democritus Universisty of Thrace, [ongoing] Advisor: Prof. I. Karafyllidis
-
 11. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
-
-    
+12. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
 
 ### Professional Activities and Service
 
@@ -240,11 +229,11 @@ plus eight more undegrads working on their final-year thesis project
 
 * *Technical program committee member*
   - DATE 2016, 2015, 2014, 2013, 2011
-  - FPL 2015, 2014, 2013, 2012, 2011, 2020
-  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 201
+  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021
+  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
   - NOCS 2015, 2016, 2017, 2018, 2019
   - NoCArc 2008-2018
-  - ARC 2018, 2019, 2020
+  - ARC 2018, 2019, 2020, 2021
   - AISTECS 2016, 2017, 2018, 2019
   - OMHI 2015, 2014, 2013, 2012
   - UCHPC 2015, 2014, 2013, 2012
