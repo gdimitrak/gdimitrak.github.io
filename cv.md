@@ -153,7 +153,7 @@
 2. Dimitrios Mangiras, PhD student, working on "Timing optimization techniques for scalable physical synthesis of digital integrated circuits"
 3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
 
-4. Dionissis Filippas, MSc student, working on "High level synthesis of data clustering accelerators"
+4. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
 
 plus eight more undegrads working on their final-year thesis project
 
@@ -170,6 +170,7 @@ plus eight more undegrads working on their final-year thesis project
 2. Zacharias Takakis, MSc, "UVM-based verification of RISC-V superscalar processors: A reinforcement learning approach"', 2019 
 3. Kariofyllis Patsidis, MSc, "Vector Processors for accelerating Convolutional Neural Networks", 2019 
 4. Anastasios Martidis, MSc, "Hardware-software co-desing of image fusion accelerators using high level synthesis", 2020.
+5. Dionissis Filippas, MSc,  "Hardware Accelerators for Data Clustering using High Level Synthesis", 2021
 
 **Dipl-Ing final year thesis** 
 
