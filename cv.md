@@ -27,6 +27,7 @@
 
 ### Honors and Awards 
 
+- Best Student Paper Award for my PhD student D. Mangiras - Electronics, Circuits and Systems Track of Modern Circuits and Systems Technologies (MOCAST) conference for the paper "Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment", July 2021.
 - Best Paper Award - T track in Design Automation and Test in Europe conferene for the paper "Error-Shielded Register Renaming Subsystem for a Dynamically Scheduled Out-of-Order Core” March 2019. 
 - [EDAA Outstanding Dissertation Award ](https://www.edaa.com/dissertation_award.html)for 2018 to my PhD student Anastasios Psarras in "Topic 2 – New directions in system-on-chip platforms co-design, novel emerging architectures and system-level management. " for his PhD thesis "High-performance Networks-on-Chip".
 - Second position to the [timing optimization constest ](http://www.tauworkshop.com/2019/contest.html)organized by the TAU workshop - ACM International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems (TAU), March 2019. 
@@ -34,14 +35,21 @@
 - Hipeac technology transfer award "Network-on-Chip for Think Silicon’s ultra-low-power GPU", 2015. 
 - Best Paper Award - D track in Design Automation and Test in Europe conferene for the paper "PhaseNoC: TDM Scheduling at the Virtual-Channel Level for Efficient Network Traffic Isolation", March 2015.
 
+### Current Research interests
+
+* High level synthesis design flows for agile ASIC design
+* RISC-V data-parallel accelerators (vector processing)
+* Fault tolerant hardware accelerators
+* EDA physical synthesis
+
 ### Publications
 
 #### Journal Papers
 
-1. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, <b>"Sum Propagate Adders"</b>,
-   to appear in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic),  June 2021.
-2. D. Konstantinou, C. Nicopoulos, J. Lee, and G. Dimitrakopoulos, **"Multicast-enabled Network-on-Chip Routers leveraging Partitioned Allocation and Switching”** , in Integration: the VLSI journal, Elsevier, vol. 77, pp. 104-112, 2021.
-3. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery, G. Dimitrakopoulos <b>"Autonomous Application of Netlist Transformations inside Lagrangian Relaxation-based Optimization" </b>, to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020  (accepted Sept. 2020).
+1. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
+   in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic), vol. 9, no. 3, pp. 1479-1488, July-Sept. 2021.
+2. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery, G. Dimitrakopoulos **"Autonomous Application of Netlist Transformations inside Lagrangian Relaxation-based Optimization"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 8, pp. 1672-1686, Aug. 2021.
+3. D. Konstantinou, C. Nicopoulos, J. Lee, and G. Dimitrakopoulos, **"Multicast-enabled Network-on-Chip Routers leveraging Partitioned Allocation and Switching”** , in Integration: the VLSI journal, Elsevier, vol. 77, pp. 104-112, 2021.
 4. D. Mangiras, A. Stefanidis, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"Timing-Driven Placement Optimization Facilitated by Timing-Compatibility Flip-Flop Clustering"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 10 , Oct. 2020, pp. 2835 - 2848.
 5. D. Konstantinou, A. Psarras, C. Nicopoulos, G. Dimitrakopoulos **"The Mesochronous Dual-Clock FIFO Buffer"** , in IEEE Transactions on VLSI Systems, vol. 28, no. 1, pp. 302-306, Jan. 2020. 
 6. I. Seitanidis, G. Dimitrakopoulos, P. Mattheakis, L. Masse-Navette, D. Chinnery, **"Timing-Driven and Placement-Aware Multi-Bit Register Composition"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 8., pp. 1501-1514, Aug., 2019. 
@@ -67,7 +75,7 @@
 
 #### Conference Papers
 
-1. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, to appear in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.
+1. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.
 2. Y. Sazeides, A. Bramnik, R. Gabor, C. Nicopoulos, R. Canal, D. Konstantinou, G. Dimitrakopoulos, **"2D Error Correction for F/F based Arrays using In-Situ Real-Time Error Detection (RTD)",** in IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), Oct. 2020.
 3. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  <b> "Memristive Learning Cellular Automata: Theory and Applications", </b> in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
 4. K. Patsidis, C. Nicopoulos, G. Sirakoulis, G. Dimitrakopoulos, **"RISC-V^2^: a Scalable RISC-V Vector Processor",**  in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
@@ -155,8 +163,8 @@
 3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
 
 4. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
+5. Christodoulos Peltekis, PhD student, working on "ML-based enhancements of Digital Design and Verification flows"
 
-plus eight more undegrads working on their final-year thesis project
 
 #### Graduated 
 
@@ -201,6 +209,12 @@ plus eight more undegrads working on their final-year thesis project
 24. Alexandros Mallios, "Clustering-based Clock tree synthesis", 2020
 25. Antolis Sikalidis, "Logic locking of reusable IP for secure SoCs", 2020
 26. Fotis Filippidis, "UVM-based verification of the RISC-V^2^ vector processor", 2020
+27. Christodoulos Peltekis, "Graph Convolutional Networks Systolic Accelerators", 2021
+28. Nikolaos Altanis, "Templatized Floating Point Unit design using HLS", ongoing expected Oct. 2021
+29. Nikolaos Margomenos, "Kd-tree partitioning algorithms parallel accelerators with HLS", ongoing expected Oct. 2021.
+30. Antonis Aslanidis, "In memory computing: Low-cost RISC V processor with memristors crossbars", ongoing expected Oct. 2021
+
+Seven more students working on their final year thesis project and expected to finish in 2022.
 
 #### PhD thesis review committee member
 
@@ -213,9 +227,10 @@ plus eight more undegrads working on their final-year thesis project
 7. Ahsen Ejaz, Chalmers University of Technology, Gotenborg, Sweden, Sept. 2018. (Licentiate Thesis) Advisor: Ioannis Sourdis
 8. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
 9. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: Prof. V. Paliouras
-10. Savvas Moisidis, Democritus Universisty of Thrace, [ongoing] Advisor: Prof. I. Karafyllidis
-11. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
-12. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
+10. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
+11. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Prof. I. Karafyllidis
+12. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
+13. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
 
 ### Professional Activities and Service
 
@@ -256,6 +271,7 @@ Since 2008 taught various courses related to the design of Digital Integrated Ci
   * Integrated Circuits
   * VLSI Systems
   * High-level synthesis of digital integrated circuits
+  * Computer Organization
   * System-on-Chip architectures [graduate]
   * Network-on-Chip architecture [graduate]
 * University of Patras, Computer Engineering and Informatics Dept. (MSc course)
