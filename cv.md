@@ -76,7 +76,7 @@
 
 #### Conference Papers
 
-1. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.
+1. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.[**Best Student Paper Award**]
 2. Y. Sazeides, A. Bramnik, R. Gabor, C. Nicopoulos, R. Canal, D. Konstantinou, G. Dimitrakopoulos, **"2D Error Correction for F/F based Arrays using In-Situ Real-Time Error Detection (RTD)",** in IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), Oct. 2020.
 3. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  <b> "Memristive Learning Cellular Automata: Theory and Applications", </b> in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
 4. K. Patsidis, C. Nicopoulos, G. Sirakoulis, G. Dimitrakopoulos, **"RISC-V^2^: a Scalable RISC-V Vector Processor",**  in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
