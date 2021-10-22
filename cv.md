@@ -162,9 +162,9 @@
 1. Dimitrios Konstantinou, PhD student, working on "Physically scalable heterogeneous network on chip architectures"
 2. Dimitrios Mangiras, PhD student, working on "Timing optimization techniques for scalable physical synthesis of digital integrated circuits"
 3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
-
 4. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
 5. Christodoulos Peltekis, PhD student, working on "ML-based enhancements of Digital Design and Verification flows"
+6. Nikos Margomenos, PhD student, "Energy-efficient data parallel embedded processors"
 
 
 #### Graduated 
@@ -211,9 +211,9 @@
 25. Antolis Sikalidis, "Logic locking of reusable IP for secure SoCs", 2020
 26. Fotis Filippidis, "UVM-based verification of the RISC-V^2^ vector processor", 2020
 27. Christodoulos Peltekis, "Graph Convolutional Networks Systolic Accelerators", 2021
-28. Nikolaos Altanis, "Templatized Floating Point Unit design using HLS", ongoing expected Oct. 2021
-29. Nikolaos Margomenos, "Kd-tree partitioning algorithms parallel accelerators with HLS", ongoing expected Oct. 2021.
-30. Antonis Aslanidis, "In memory computing: Low-cost RISC V processor with memristors crossbars", ongoing expected Oct. 2021
+28. Nikolaos Altanis, "Templatized Floating Point Unit design using HLS", 2021
+30. Antonis Aslanidis, "In memory computing: Low-cost RISC V processor with memristors crossbars",  2021
+30. Nikolaos Margomenos, "Kd-tree partitioning algorithms parallel accelerators with HLS", 2021.
 
 Seven more students working on their final year thesis project and expected to finish in 2022.
 
@@ -225,11 +225,11 @@ Seven more students working on their final year thesis project and expected to f
 4. Ioannis Kouretas, University of Patras, July 2012, Advisor: Vassilis Paliouras
 5. Nikita Nikitin, Universitat Politècnica de Catalunya (UPC), Spain, April 2013, Advisor: Jordi Cortadella
 6. Pavlos Mattheakis, University of Crete, May 2013, Advisor: Christos Sotiriou
-7. Ahsen Ejaz, Chalmers University of Technology, Gotenborg, Sweden, Sept. 2018. (Licentiate Thesis) Advisor: Ioannis Sourdis
 8. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
-9. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: Prof. V. Paliouras
-10. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
-11. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Prof. I. Karafyllidis
+8. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
+9. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Advisor: Prof. I. Karafyllidis
+10. Tomás Picornell Sanjuan, Universitat Politècnica de València (UPV), Spain, 2021 Advisor: Jose Flich, Carles Fernandez Luz
+11. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: Prof. V. Paliouras
 12. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
 13. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
 
@@ -248,6 +248,7 @@ Seven more students working on their final year thesis project and expected to f
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 
 * *Technical program committee member*
+  - ISPD 2022
   - DATE 2016, 2015, 2014, 2013, 2011
   - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
@@ -260,7 +261,7 @@ Seven more students working on their final year thesis project and expected to f
   - INA-OCMC 2015, 2011, 2010
   - IEEE conference on VLSI design 2015, 2014
   - ICECS 2010
-
+  
 * *Reviewer*
 Regural reviewer for all IEEE Transactions covering my area of research (IEEE Transactions on Computers, IEEE Transactions on Circuits and Systems I, ΙΕΕΕ Transactions on VLSI Systems, IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems,IEEE Transactions on Parallel and Distributed System) and other closely related journals Integration, the VLSI Journal, IET Computer and Digital techniques, IET Circuits, Devices and Systems, IET Electronics Letters.
 
