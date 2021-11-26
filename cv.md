@@ -47,32 +47,33 @@
 #### Journal Papers
 
 1. D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, to appear in IEEE Transactions on VLSI Systems, accepted Oct. 2021
-2. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
+2. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in MDPI Technologies (special issue on MOCAST-21), Nov. 2021.
+3. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
    in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic), vol. 9, no. 3, pp. 1479-1488, July-Sept. 2021.
-3. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery, G. Dimitrakopoulos **"Autonomous Application of Netlist Transformations inside Lagrangian Relaxation-based Optimization"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 8, pp. 1672-1686, Aug. 2021.
-4. D. Konstantinou, C. Nicopoulos, J. Lee, and G. Dimitrakopoulos, **"Multicast-enabled Network-on-Chip Routers leveraging Partitioned Allocation and Switching”** , in Integration: the VLSI journal, Elsevier, vol. 77, pp. 104-112, 2021.
-5. D. Mangiras, A. Stefanidis, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"Timing-Driven Placement Optimization Facilitated by Timing-Compatibility Flip-Flop Clustering"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 10 , Oct. 2020, pp. 2835 - 2848.
-6. D. Konstantinou, A. Psarras, C. Nicopoulos, G. Dimitrakopoulos **"The Mesochronous Dual-Clock FIFO Buffer"** , in IEEE Transactions on VLSI Systems, vol. 28, no. 1, pp. 302-306, Jan. 2020. 
-7. I. Seitanidis, G. Dimitrakopoulos, P. Mattheakis, L. Masse-Navette, D. Chinnery, **"Timing-Driven and Placement-Aware Multi-Bit Register Composition"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 8., pp. 1501-1514, Aug., 2019. 
-8. I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos, **"Automatic Generation of Peak-Power Traffic for Networks-on-Chip"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no.1, pp. 96-108, Jan., 2019.
-9. K. Patsidis, D. Konstantinou, C. Nicopoulos, G. Dimitrakopoulos, **"A Low-Cost Synthesizable RISC-V Dual-Issue Processor Core Leveraging the Compressed Instruction Set Extension"** , in Microprocessors and Microsystems, Elsevier, Sept. 2018.
-10. A. Psarras, S. Moisidis, C. Nicopoulos, G. Dimitrakopoulos, **"Networks-on-Chip with Double-Data-Rate Links"** , in IEEE Transactions on Circuits and Systems I, vol. 64, no. 12, pp. 3103-3114, Dec. 2017. 
-11. A. Psarras, M. Paschou, C. Nicopoulos, G. Dimitrakopoulos, **"A Dual-Clock Multiple-Queue Shared Buffer"**, in IEEE Transactions on Computers, vol. 66, no. 10, pp. 1809 - 1815, Oct. 2017. 
-12. E. Karampasis, N. Papanikolaou, D. Voglitsis, M. Loupis, A. Psarras, A. Boubaris, D. Baros, G. Dimitrakopoulos, **"Active Thermoelectric Cooling Solutions for Airspace Applications: the THERMICOOL Project"**, in IEEE Access, 2017.
-13. A. Psarras, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"ShortPath: A Network-on-Chip Router with Fine-Grained Pipeline Bypassing"**, in IEEE Transactions on Computers, vol. 65, no. 10, pp. 3136-3147, Oct. 2016. 
-14. K. Chrysanthou, P. Englezakis, A. Prodromou, A. Panteli, C. Nicopoulos ,Y. Sazeides, G. Dimitrakopoulos, **"An On-Line and Real-Time Fault Detection and Localization Mechanism for Network-on-Chip Architectures"** , in ACM Transactions on Architecture and Code optimisation (TACO), Vol. 13, No. 2, June 2016. 
-15. A. Psarras, J. Lee, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"PhaseNoC: Versatile Network Traffic Isolation through TDM-Scheduled Virtual Channels"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol.35, no.5, pp.844-857, May 2016. 
-16. I. Seitanidis, A. Psarras, K. Chrysanthou, C. Nicopoulos, G. Dimitrakopoulos **"ElastiStore: Flexible Elastic Buffering for Virtual-Channel-based Networks-on-Chip"**, in IEEE Transactions on VLSI Systems, vol.23, no.12, pp.3015-3028, Dec. 2015. 
-17. D. Bertozzi, G. Dimitrakopoulos, J. Flich, S. Sonntag, "**The fast evolving landscape of on-chip communication**", in Design Automation of Embedded Systems, Springer, vol. 19, no. 1-2, March 2015, pp. 59-76. 
-18. G. Dimitrakopoulos, E. Kalligeros, K. Galanopoulos “**Merged Switch Allocation and Traversal in Network-On-Chip Switches**”, in IEEE Transactions on Computers, Oct. 2013, pp. 2001-2012.
-19. D. S. Gracia, G. Dimitrakopoulos, T. Monreal Arnal, M. G.H. Katevenis, and V. Vinals Yufera “**LP-NUCA: Networks-in-Cache for high-performance low-power embedded processors**”, in IEEE Transactions on VLSI Systems. vol.20, no.8, pp. 1510-1523, Aug. 2012. 
-20. H. T. Vergos, G. Dimitrakopoulos “**On modulo 2^n^+1 adder design**”, in IEEE Transactions on Computers, vol.61, no.2, pp. 173-186, Feb. 2012.
-21. N. Chrysos, G. Dimitrakopoulos “**Practical High-Throughput Crossbar Scheduling**”, in IEEE Micro, Micro's Top Picks from Hot Interconnects 16, Summer 2009.
-22. G. Dimitrakopoulos, K. Galanopoulos, C. Mavrokefalidis, D. Nikolos, “**Low-Power Leading Zero Counting and Anticipation Logic for High-Speed Floating Point Units**”, in IEEE Transactions on VLSI Systems, July 2008. 
-23. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**Sorter Based Permutation Units for Media-Enhanced Microprocessors**”, in IEEE Transactions on VLSI Systems, vol. 15, no. 6, June 2007. 
-24. C. Efstathiou, H. T. Vergos, G. Dimitrakopoulos, and D. Nikolos, “**Efficient Diminished-1 Modulo 2^n^+1 Multipliers**”, in IEEE Transactions on Computers, vol. 54, no. 4, April 2005. 
-25. G. Dimitrakopoulos and D. Nikolos, “**High-Speed Parallel-Prefix VLSI Ling Adders**”, in IEEE Transactions on Computers, vol. 54, no. 2, pp. 225-231, February 2005. 
-26. G. Dimitrakopoulos and V. Paliouras, “**A Novel Architecture and a Systematic Graph-Based Optimization Methodology for Modulo Multiplication**”, in IEEE Transactions on Circuits and Systems I, vol. 51, no. 2, pp. 354 - 370, February 2004.
+4. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery, G. Dimitrakopoulos **"Autonomous Application of Netlist Transformations inside Lagrangian Relaxation-based Optimization"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 8, pp. 1672-1686, Aug. 2021.
+5. D. Konstantinou, C. Nicopoulos, J. Lee, and G. Dimitrakopoulos, **"Multicast-enabled Network-on-Chip Routers leveraging Partitioned Allocation and Switching”** , in Integration: the VLSI journal, Elsevier, vol. 77, pp. 104-112, 2021.
+6. D. Mangiras, A. Stefanidis, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"Timing-Driven Placement Optimization Facilitated by Timing-Compatibility Flip-Flop Clustering"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 10 , Oct. 2020, pp. 2835 - 2848.
+7. D. Konstantinou, A. Psarras, C. Nicopoulos, G. Dimitrakopoulos **"The Mesochronous Dual-Clock FIFO Buffer"** , in IEEE Transactions on VLSI Systems, vol. 28, no. 1, pp. 302-306, Jan. 2020. 
+8. I. Seitanidis, G. Dimitrakopoulos, P. Mattheakis, L. Masse-Navette, D. Chinnery, **"Timing-Driven and Placement-Aware Multi-Bit Register Composition"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 8., pp. 1501-1514, Aug., 2019. 
+9. I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos, **"Automatic Generation of Peak-Power Traffic for Networks-on-Chip"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no.1, pp. 96-108, Jan., 2019.
+10. K. Patsidis, D. Konstantinou, C. Nicopoulos, G. Dimitrakopoulos, **"A Low-Cost Synthesizable RISC-V Dual-Issue Processor Core Leveraging the Compressed Instruction Set Extension"** , in Microprocessors and Microsystems, Elsevier, Sept. 2018.
+11. A. Psarras, S. Moisidis, C. Nicopoulos, G. Dimitrakopoulos, **"Networks-on-Chip with Double-Data-Rate Links"** , in IEEE Transactions on Circuits and Systems I, vol. 64, no. 12, pp. 3103-3114, Dec. 2017. 
+12. A. Psarras, M. Paschou, C. Nicopoulos, G. Dimitrakopoulos, **"A Dual-Clock Multiple-Queue Shared Buffer"**, in IEEE Transactions on Computers, vol. 66, no. 10, pp. 1809 - 1815, Oct. 2017. 
+13. E. Karampasis, N. Papanikolaou, D. Voglitsis, M. Loupis, A. Psarras, A. Boubaris, D. Baros, G. Dimitrakopoulos, **"Active Thermoelectric Cooling Solutions for Airspace Applications: the THERMICOOL Project"**, in IEEE Access, 2017.
+14. A. Psarras, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"ShortPath: A Network-on-Chip Router with Fine-Grained Pipeline Bypassing"**, in IEEE Transactions on Computers, vol. 65, no. 10, pp. 3136-3147, Oct. 2016. 
+15. K. Chrysanthou, P. Englezakis, A. Prodromou, A. Panteli, C. Nicopoulos ,Y. Sazeides, G. Dimitrakopoulos, **"An On-Line and Real-Time Fault Detection and Localization Mechanism for Network-on-Chip Architectures"** , in ACM Transactions on Architecture and Code optimisation (TACO), Vol. 13, No. 2, June 2016. 
+16. A. Psarras, J. Lee, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"PhaseNoC: Versatile Network Traffic Isolation through TDM-Scheduled Virtual Channels"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol.35, no.5, pp.844-857, May 2016. 
+17. I. Seitanidis, A. Psarras, K. Chrysanthou, C. Nicopoulos, G. Dimitrakopoulos **"ElastiStore: Flexible Elastic Buffering for Virtual-Channel-based Networks-on-Chip"**, in IEEE Transactions on VLSI Systems, vol.23, no.12, pp.3015-3028, Dec. 2015. 
+18. D. Bertozzi, G. Dimitrakopoulos, J. Flich, S. Sonntag, "**The fast evolving landscape of on-chip communication**", in Design Automation of Embedded Systems, Springer, vol. 19, no. 1-2, March 2015, pp. 59-76. 
+19. G. Dimitrakopoulos, E. Kalligeros, K. Galanopoulos “**Merged Switch Allocation and Traversal in Network-On-Chip Switches**”, in IEEE Transactions on Computers, Oct. 2013, pp. 2001-2012.
+20. D. S. Gracia, G. Dimitrakopoulos, T. Monreal Arnal, M. G.H. Katevenis, and V. Vinals Yufera “**LP-NUCA: Networks-in-Cache for high-performance low-power embedded processors**”, in IEEE Transactions on VLSI Systems. vol.20, no.8, pp. 1510-1523, Aug. 2012. 
+21. H. T. Vergos, G. Dimitrakopoulos “**On modulo 2^n^+1 adder design**”, in IEEE Transactions on Computers, vol.61, no.2, pp. 173-186, Feb. 2012.
+22. N. Chrysos, G. Dimitrakopoulos “**Practical High-Throughput Crossbar Scheduling**”, in IEEE Micro, Micro's Top Picks from Hot Interconnects 16, Summer 2009.
+23. G. Dimitrakopoulos, K. Galanopoulos, C. Mavrokefalidis, D. Nikolos, “**Low-Power Leading Zero Counting and Anticipation Logic for High-Speed Floating Point Units**”, in IEEE Transactions on VLSI Systems, July 2008. 
+24. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**Sorter Based Permutation Units for Media-Enhanced Microprocessors**”, in IEEE Transactions on VLSI Systems, vol. 15, no. 6, June 2007. 
+25. C. Efstathiou, H. T. Vergos, G. Dimitrakopoulos, and D. Nikolos, “**Efficient Diminished-1 Modulo 2^n^+1 Multipliers**”, in IEEE Transactions on Computers, vol. 54, no. 4, April 2005. 
+26. G. Dimitrakopoulos and D. Nikolos, “**High-Speed Parallel-Prefix VLSI Ling Adders**”, in IEEE Transactions on Computers, vol. 54, no. 2, pp. 225-231, February 2005. 
+27. G. Dimitrakopoulos and V. Paliouras, “**A Novel Architecture and a Systematic Graph-Based Optimization Methodology for Modulo Multiplication**”, in IEEE Transactions on Circuits and Systems I, vol. 51, no. 2, pp. 354 - 370, February 2004.
 
 #### Conference Papers
 
@@ -227,11 +228,13 @@ Seven more students working on their final year thesis project and expected to f
 6. Pavlos Mattheakis, University of Crete, May 2013, Advisor: Christos Sotiriou
 8. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
 8. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
-9. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Advisor: Prof. I. Karafyllidis
+9. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Advisor: I. Karafyllidis
 10. Tomás Picornell Sanjuan, Universitat Politècnica de València (UPV), Spain, 2021 Advisor: Jose Flich, Carles Fernandez Luz
-11. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: Prof. V. Paliouras
-12. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
-13. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: Prof. G. Syrakoulis
+11. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: V. Paliouras
+12. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+13. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+14. Εvagelos Tsipas, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+15. Nikolaos Delianidis, Democritus University of Thrace [ongoing], Advisor: N. Papanikolaou
 
 ### Professional Activities and Service
 
@@ -248,7 +251,9 @@ Seven more students working on their final year thesis project and expected to f
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 
 * *Technical program committee member*
+  - DAC 2022
   - ISPD 2022
+  - MOCAST 2021, 2022
   - DATE 2016, 2015, 2014, 2013, 2011
   - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
