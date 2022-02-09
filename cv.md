@@ -46,7 +46,7 @@
 
 #### Journal Papers
 
-1. D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, to appear in IEEE Transactions on VLSI Systems, accepted Oct. 2021
+1. D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, in IEEE Transactions on VLSI Systems, vol: 30, no. 2, Feb. 2022.
 2. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in MDPI Technologies (special issue on MOCAST-21), Nov. 2021.
 3. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
    in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic), vol. 9, no. 3, pp. 1479-1488, July-Sept. 2021.
@@ -251,11 +251,12 @@ Seven more students working on their final year thesis project and expected to f
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 
 * *Technical program committee member*
+  - ASAP 2022
   - DAC 2022
   - ISPD 2022
   - MOCAST 2021, 2022
   - DATE 2016, 2015, 2014, 2013, 2011
-  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021
+  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021, 2022
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
   - NOCS 2015, 2016, 2017, 2018, 2019
   - NoCArc 2008-2018
