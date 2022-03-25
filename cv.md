@@ -165,7 +165,6 @@
 3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
 4. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
 5. Christodoulos Peltekis, PhD student, working on "ML-based enhancements of Digital Design and Verification flows"
-6. Nikos Margomenos, PhD student, "Energy-efficient data parallel embedded processors"
 
 
 #### Graduated 
@@ -215,8 +214,7 @@
 28. Nikolaos Altanis, "Templatized Floating Point Unit design using HLS", 2021
 30. Antonis Aslanidis, "In memory computing: Low-cost RISC V processor with memristors crossbars",  2021
 30. Nikolaos Margomenos, "Kd-tree partitioning algorithms parallel accelerators with HLS", 2021.
-
-Seven more students working on their final year thesis project and expected to finish in 2022.
+31. Ioanna Zoumpoulidou, "Approximate arithmetic units", 2022
 
 #### PhD thesis review committee member
 
@@ -230,11 +228,12 @@ Seven more students working on their final year thesis project and expected to f
 8. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
 9. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Advisor: I. Karafyllidis
 10. Tomás Picornell Sanjuan, Universitat Politècnica de València (UPV), Spain, 2021 Advisor: Jose Flich, Carles Fernandez Luz
-11. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: V. Paliouras
-12. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-13. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-14. Εvagelos Tsipas, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-15. Nikolaos Delianidis, Democritus University of Thrace [ongoing], Advisor: N. Papanikolaou
+11. Vassilis Ntinas, Democritus University of Thrace, Advisor: G. Syrakoulis
+12. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: V. Paliouras
+13. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+14. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+15. Εvagelos Tsipas, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
+16. Nikolaos Delianidis, Democritus University of Thrace [ongoing], Advisor: N. Papanikolaou
 
 ### Professional Activities and Service
 
@@ -252,15 +251,16 @@ Seven more students working on their final year thesis project and expected to f
 
 * *Technical program committee member*
   - ASAP 2022
+  - ISVLSI 2022
   - DAC 2022
   - ISPD 2022
+  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021, 2022
+  - ARC 2018, 2019, 2020, 2021, 2022
   - MOCAST 2021, 2022
   - DATE 2016, 2015, 2014, 2013, 2011
-  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021, 2022
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
   - NOCS 2015, 2016, 2017, 2018, 2019
   - NoCArc 2008-2018
-  - ARC 2018, 2019, 2020, 2021
   - AISTECS 2016, 2017, 2018, 2019
   - OMHI 2015, 2014, 2013, 2012
   - UCHPC 2015, 2014, 2013, 2012
