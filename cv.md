@@ -216,7 +216,7 @@
 30. Nikolaos Margomenos, "Kd-tree partitioning algorithms parallel accelerators with HLS", 2021.
 31. Ioanna Zoumpoulidou, "Approximate arithmetic units", 2022
 
-#### PhD thesis review committee member
+#### PhD thesis examination committee 
 
 1. Dario Suarez Gracia, University of Zaragoza, Spain, Nov. 2011 Advisor: Victor Vinals
 2. Αna Βosque, University of Zaragoza, Spain, Nov. 2011 Advisors: José M. Llabería, Pablo Ibáñez, Victor Vinals
@@ -254,11 +254,11 @@
   - ISVLSI 2022
   - DAC 2022
   - ISPD 2022
-  - FPL 2015, 2014, 2013, 2012, 2011, 2020, 2021, 2022
+  - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022
+  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022
   - ARC 2018, 2019, 2020, 2021, 2022
   - MOCAST 2021, 2022
-  - DATE 2016, 2015, 2014, 2013, 2011
-  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021
+  - DATE 2011, 2013, 2014, 2015, 2016
   - NOCS 2015, 2016, 2017, 2018, 2019
   - NoCArc 2008-2018
   - AISTECS 2016, 2017, 2018, 2019
@@ -281,7 +281,6 @@ Since 2008 taught various courses related to the design of Digital Integrated Ci
   * High-level synthesis of digital integrated circuits
   * Computer Organization
   * System-on-Chip architectures [graduate]
-  * Network-on-Chip architecture [graduate]
 * University of Patras, Computer Engineering and Informatics Dept. (MSc course)
   * Network-on-Chip architecture [graduate]
 * University of West Macedonia, Informatics and Communications Eng. Dept (Lecturer)
