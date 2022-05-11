@@ -77,49 +77,52 @@
 
 #### Conference Papers
 
-1. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.[**Best Student Paper Award**]
-2. Y. Sazeides, A. Bramnik, R. Gabor, C. Nicopoulos, R. Canal, D. Konstantinou, G. Dimitrakopoulos, **"2D Error Correction for F/F based Arrays using In-Situ Real-Time Error Detection (RTD)",** in IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), Oct. 2020.
-3. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  <b> "Memristive Learning Cellular Automata: Theory and Applications", </b> in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
-4. K. Patsidis, C. Nicopoulos, G. Sirakoulis, G. Dimitrakopoulos, **"RISC-V^2^: a Scalable RISC-V Vector Processor",**  in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
-5. T. Xatzinikolaou, I.-A. Fyrigos, R.-E. Karamani, V. Ntinas, G. Dimitrakopoulos, S. Cotofana, G. Sirakoulis, **"Memristive Oscillatory Circuits for Resolution of NP-Complete Logic Puzzles: Sudoku Case"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
-6. D. Konstantinou, C. Nicopoulos, J. Lee, G. Sirakoulis, G. Dimitrakopoulos, **"SmartFork: Partitioned Multicast Allocation and Switching in Network-on-Chip Routers"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
-7. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery and G. Dimitrakopoulos, **"Design optimization by fine-grained interleaving of local netlist transformations in Lagrangian relaxation",** in ACM International Symposium on Physical Design (ISPD), March, 2020, pp. 87-94
-8. D. Mangiras, P. Mattheakis, P.-O. Ribet and G. Dimitrakopoulos, **"Soft-Clustering Driven Flip-flop Placement Targeting Clock-induced OCV",** in ACM International Symposium on Physical Design (ISPD), March, 2020, pp. 25-32.
-9. A. Stefanidis, D. Mangiras, C. Nicopoulos and G. Dimitrakopoulos, **"Multi-Armed Bandits for Autonomous Timing-driven Design Optimization",** in 29th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), July, 2019, pp. 17-22. 
-10. Z. Takakis, D. Mangiras, C. Nicopoulos and G. Dimitrakopoulos, **"Dynamic Adjustment of Test-Sequence Duration for Increasing the Functional Coverage"** in 4th International Verification and Security Workshop (IVSW), July 2019, pp. 61-66.
-11. R. Gabor, Y. Sazeides, A. Bramnik, A. Andreou, C. Nicopoulos, K. Patsidis, D. Konstantinou and G. Dimitrakopoulos, **"Error-Shielded Register Renaming Subsystem for a Dynamically Scheduled Out-of-Order Core”,** in Design Automation and Test in Europe (DATE), Mar. 2019. [**Best Paper Award**]
-12. D. Konstantinou, A. Psarras, G. Dimitrakopoulos, C. Nicopoulos, **"Low-Power Dual-Edge-Triggered Synchronous Latency-Insensitive Systems",** in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Greece, May 2018. 
-13. I. Seitanidis, G. Dimitrakopoulos, P. Mattheakis, L. Masse-Navette, D. Chinnery, **"Timing Driven Incremental Multi-Bit Register Composition Using a Placement Aware ILP formulation",** in Proc. ACM/IEEE Design Automation Conference (DAC), USA, June 2017. [**Hipeac Paper Award**]
-14. M. Debnath, D. Konstatinou, C. Nicopoulos, G. Dimitrakopoulos, W-M Lin, and J. Lee **"Low-Cost Congestion Management in Networks-on-Chip Using Edge and In-Network Traffic Throttling"** in 2nd Int'l Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems (HIPEAC-AISTECS), Sweden, 2017.
-15. A. Psarras, S. Moisidis, C. Nicopoulos and G. Dimitrakopoulos **"RapidLink: a Network-on-Chip Architecture with Double-Data-Rate Links"** , in IEEE Int'l Conference on Electronics, Circuits, and Systems (ICECS), France, Dec. 2016. 
-16. I. Seitanidis, C. Nicopoulos and G. Dimitrakopoulos **"PowerMax: An Automated Methodology for Generating Peak-Power Traffic in Networks-on-Chip"** in 10th IEEE/ACM International Symposium on Networks-on-Chip (NoCS), Sept. 2016, Japan. [**Best Paper Award Finalist**]
-17. A. Psarras, J. Lee, P. Mattheakis, C. Nicopoulos and G. Dimitrakopoulos **"A Low-Power Network-on-Chip Architecture for Tile-based Chip Multi-Processors"** in ACM Great Lakes Symposium on VLSI (GLSVLSI) 2016, Boston, USA, May 2016. 
-18. M. Paschou, A. Psarras, C. Nicopoulos and G. Dimitrakopoulos **"CrossOver: Clock Domain Crossing under Virtual-Channel Flow Control"** in Design Automation and Test in Europe (DATE), Dresden, Germany, Mar. 2016. 
-19. A. Panteloukas, A. Psarras, C. Nicopoulos and G. Dimitrakopoulos **"Timing Resilient Network-on-Chip Architectures"** in IEEE International On-Line Testing Symposium (IOLTS), July 2015. 
-20. A. Psarras, I. Seitanidis, C. Nicopoulos and G. Dimitrakopoulos **"PhaseNoC: TDM Scheduling at the Virtual-Channel Level for Efficient Network Traffic Isolation"** in Design Automation and Test in Europe (DATE), Grenoble, France, Mar. 2015. [**Best Paper Award**]
-21. I. Seitanidis, A. Psarras, E. Kalligeros, C. Nicopoulos, G. Dimitrakopoulos **"ElastiNoC: A Self-Testable Distributed VC-based Network-on-Chip Architecture"** in 8th IEEE/ACM International Symposium on Networks-on-Chip (NoCS), Sept. 2014, Italy.
-22. I. Seitanidis, A. Psarras, G. Dimitrakopoulos, C. Nicopoulos **"ElastiStore: An Elastic Buffer Architecture for Network-on-Chip Routers"**, in Design Automation and Test in Europe (DATE), Mar. 2014. 
-23. G. Dimitrakopoulos, I. Seitanidis, A. Psarras, K. Tsiouris, P. Matthaiakis, J. Cortadella **"Hardware Primitives for the Synthesis of Multithreaded Elastic Systems"**, in Design Automation and Test in Europe (DATE), Mar. 2014. 
-24. G. Dimitrakopoulos, N. Georgiadis, C. Nicopoulos, E. Kalligeros, **"Switch Folding: Network-on-Chip Routers with Time-Multiplexed Output Ports"**, in Design Automation and Test in Europe (DATE), Mar. 2013. 
-25. A. Roca, J. Flich, G. Dimitrakopoulos “**DESA: Distibuted Elastic Switch Architecture for efficient Networks-on-FPGAs**”, in the International Conference on Field-Programmable Logic and Applications (FPL 2012) Oslo, Norway, August 2012. 
-26. G. Dimitrakopoulos, E. Kalligeros, “**Dynamic-Priority Arbiter and Multiplexer Soft Macros for On-Chip Networks Switches**”, in ACM Design Automation and Test in Europe (DATE), Mar. 2012. 
-27. G. Dimitrakopoulos, E. Kalligeros, “**Low-cost fault-tolerant switch allocator for network-on-chip routers**”, Proc. of the 6th Interconnection Network Architecture, On-Chip Multi-Chip Workshop (INA-OCMC), Jan. 2012. 
-28. G. Dimitrakopoulos, C. Kachris, E. Kalligeros, “**Scalable arbiters and multiplexers for on-FPGA interconnection networks**”, in Proceedings of the 21st International Conference on Field-Programmable Logic and Applications (FPL 2011) Chania, Greece, September 2011. 
-29. G. Dimitrakopoulos and K. Galanopoulos, “**Switch allocator for bufferless network-on-chip routers**”, in Proceedings of the Fifth ACM Interconnection Network Architecture, On-Chip Multi-Chip Workshop (INA-OCMC) Heraklion, Greece, January 2011.
-30. G. Dimitrakopoulos, N. Chrysos, K. Galanopoulos “**Fast Arbiters for On-Chip Network Switches**”, in IEEE International Conference on Computer Design (ICCD), Oct. 2008.
-31. N. Chrysos and G. Dimitrakopoulos “**Backlog-Aware Crossbar Schedulers: A New Algorithm and its Efficient Hardware Implementation**”, in IEEE Symposium on High-Performance Interconnects (HOT-Interconnects), pp. 67-74, Aug. 2008. 
-32. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**An Energy-Delay Efficient Subword Permutation Unit**”, in IEEE Conference on Application Specific Systems, Architectures, and Processors (ASAP), Sept. 2006.
-33. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**Fast Bit Permutation Unit for Media-Enhanced Microprocessor**”, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2006. 
-34. G. Dimitrakopoulos, D. G. Nikolos, H. T. Vergos, D. Nikolos, and C. Efstathiou, “**New architectures for modulo 2^n^-1 adders**”, in IEEE International Conference on Electronics, Circuits and Systems (ICECS), December 2005. 
-35. G. Dimitrakopoulos and D. Nikolos, “**Closed-Form Bounds for Interconnect-Aware Minimum Delay Gate Sizing**”, in International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2005), Lectures Notes in Computer Science, vol. 3728, pp. 308 - 317, Sep. 2005.
-36. G. Dimitrakopoulos, P. Kolovos, P. Kalogerakis, and D. Nikolos, “**Design of High-Speed Low-Power VLSI Parallel-Prefix Adders**”, in Proc. of the 14th International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2004), Lectures Notes in Computer Science, vol. 3254, pp. 248 - 257, August 2004.
-37. C. Efstathiou, H. Vergos, G. Dimitrakopoulos, and D. Nikolos, “**Efficient Modulo 2^n^ + 1 Tree Multipliers for Diminished-1 Operands**”, in Proceedings of the IEEE International Conference on Electronics, Circuits, and Systems (ICECS’ 03), December 2003, pp. 200-203. 
-38. G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, **"A Family of Parallel Prefix Modulo 2^n^-1 Adders**’, in Proc. of the IEEE International Conference on Application-Specific Systems, Architectures, and Processors (ASAP’03), June 2003, pp. 326 - 336. 
-39. G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, “**Virtual-Scan: A Novel Approach for Software-Based Self-Testing of Microprocessors**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’03), May 2003, pp. 237-240. 
-40. G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, “**A Systematic Methodology for Designing Area-Time Efficient Parallel-Prefix Modulo 2n - 1 Adders**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’ 03), May 2003, pp. 225-228. 
-41. G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, "**Software-Based Self-testing of Microprocessors by Exploiting a Virtual Scan Path**’, in the Supplement of the 4th European Dependable Computing Conference (EDCC-4), October 2002, pp. 23-24.
-42. G. Dimitrakopoulos and V. Paliouras, “**Graph-Based Optimization for a CSD-Enhanced RNS Multiplier**”, in Proceedings of the 45th IEEE International Midwest Symposium on Circuits and Systems (MWSCAS’02), August 2002, Volume III, pp. 648-651.
-43. G. Dimitrakopoulos, D. Nikolos, and D. Bakalis, “**Bit-Serial Test Pattern Generation by an Accumulator Behaving as a Non-Linear Feedback Shift Register**”, in Proc. of the 8th IEEE International On-Line Testing Workshop (IOLTW’02), July 2002, pp. 152-157.
+1. D. Filippas, C. Nicopoulos, G. Dimitrakopoulos, **LeapConv: An Energy-efficient Streaming Convolution Engine with Reconfigurable Stride** , in IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022), July 2022.
+2. C. Peltekis, D. Filippas, C. Nicopoulos, G. Dimitrakopoulos, **"FusedGCN: A Systolic Three-Matrix Multiplication Architecture for Graph Convolutional Networks"** , in IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2022), July 2022.
+3. G. Dimitrakopoulos, A. Psarras, C. Nicopoulos, **"Virtual Channel Flow Control Across Mesochronous Clock Domains"** , in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), June 2022.
+4. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.[**Best Student Paper Award**]
+5. Y. Sazeides, A. Bramnik, R. Gabor, C. Nicopoulos, R. Canal, D. Konstantinou, G. Dimitrakopoulos, **"2D Error Correction for F/F based Arrays using In-Situ Real-Time Error Detection (RTD)",** in IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), Oct. 2020.
+6. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  <b> "Memristive Learning Cellular Automata: Theory and Applications", </b> in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
+7. K. Patsidis, C. Nicopoulos, G. Sirakoulis, G. Dimitrakopoulos, **"RISC-V^2^: a Scalable RISC-V Vector Processor",**  in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
+8. T. Xatzinikolaou, I.-A. Fyrigos, R.-E. Karamani, V. Ntinas, G. Dimitrakopoulos, S. Cotofana, G. Sirakoulis, **"Memristive Oscillatory Circuits for Resolution of NP-Complete Logic Puzzles: Sudoku Case"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
+9. D. Konstantinou, C. Nicopoulos, J. Lee, G. Sirakoulis, G. Dimitrakopoulos, **"SmartFork: Partitioned Multicast Allocation and Switching in Network-on-Chip Routers"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
+10. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery and G. Dimitrakopoulos, **"Design optimization by fine-grained interleaving of local netlist transformations in Lagrangian relaxation",** in ACM International Symposium on Physical Design (ISPD), March, 2020, pp. 87-94
+11. D. Mangiras, P. Mattheakis, P.-O. Ribet and G. Dimitrakopoulos, **"Soft-Clustering Driven Flip-flop Placement Targeting Clock-induced OCV",** in ACM International Symposium on Physical Design (ISPD), March, 2020, pp. 25-32.
+12. A. Stefanidis, D. Mangiras, C. Nicopoulos and G. Dimitrakopoulos, **"Multi-Armed Bandits for Autonomous Timing-driven Design Optimization",** in 29th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), July, 2019, pp. 17-22. 
+13. Z. Takakis, D. Mangiras, C. Nicopoulos and G. Dimitrakopoulos, **"Dynamic Adjustment of Test-Sequence Duration for Increasing the Functional Coverage"** in 4th International Verification and Security Workshop (IVSW), July 2019, pp. 61-66.
+14. R. Gabor, Y. Sazeides, A. Bramnik, A. Andreou, C. Nicopoulos, K. Patsidis, D. Konstantinou and G. Dimitrakopoulos, **"Error-Shielded Register Renaming Subsystem for a Dynamically Scheduled Out-of-Order Core”,** in Design Automation and Test in Europe (DATE), Mar. 2019. [**Best Paper Award**]
+15. D. Konstantinou, A. Psarras, G. Dimitrakopoulos, C. Nicopoulos, **"Low-Power Dual-Edge-Triggered Synchronous Latency-Insensitive Systems",** in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Greece, May 2018. 
+16. I. Seitanidis, G. Dimitrakopoulos, P. Mattheakis, L. Masse-Navette, D. Chinnery, **"Timing Driven Incremental Multi-Bit Register Composition Using a Placement Aware ILP formulation",** in Proc. ACM/IEEE Design Automation Conference (DAC), USA, June 2017. [**Hipeac Paper Award**]
+17. M. Debnath, D. Konstatinou, C. Nicopoulos, G. Dimitrakopoulos, W-M Lin, and J. Lee **"Low-Cost Congestion Management in Networks-on-Chip Using Edge and In-Network Traffic Throttling"** in 2nd Int'l Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems (HIPEAC-AISTECS), Sweden, 2017.
+18. A. Psarras, S. Moisidis, C. Nicopoulos and G. Dimitrakopoulos **"RapidLink: a Network-on-Chip Architecture with Double-Data-Rate Links"** , in IEEE Int'l Conference on Electronics, Circuits, and Systems (ICECS), France, Dec. 2016. 
+19. I. Seitanidis, C. Nicopoulos and G. Dimitrakopoulos **"PowerMax: An Automated Methodology for Generating Peak-Power Traffic in Networks-on-Chip"** in 10th IEEE/ACM International Symposium on Networks-on-Chip (NoCS), Sept. 2016, Japan. [**Best Paper Award Finalist**]
+20. A. Psarras, J. Lee, P. Mattheakis, C. Nicopoulos and G. Dimitrakopoulos **"A Low-Power Network-on-Chip Architecture for Tile-based Chip Multi-Processors"** in ACM Great Lakes Symposium on VLSI (GLSVLSI) 2016, Boston, USA, May 2016. 
+21. M. Paschou, A. Psarras, C. Nicopoulos and G. Dimitrakopoulos **"CrossOver: Clock Domain Crossing under Virtual-Channel Flow Control"** in Design Automation and Test in Europe (DATE), Dresden, Germany, Mar. 2016. 
+22. A. Panteloukas, A. Psarras, C. Nicopoulos and G. Dimitrakopoulos **"Timing Resilient Network-on-Chip Architectures"** in IEEE International On-Line Testing Symposium (IOLTS), July 2015. 
+23. A. Psarras, I. Seitanidis, C. Nicopoulos and G. Dimitrakopoulos **"PhaseNoC: TDM Scheduling at the Virtual-Channel Level for Efficient Network Traffic Isolation"** in Design Automation and Test in Europe (DATE), Grenoble, France, Mar. 2015. [**Best Paper Award**]
+24. I. Seitanidis, A. Psarras, E. Kalligeros, C. Nicopoulos, G. Dimitrakopoulos **"ElastiNoC: A Self-Testable Distributed VC-based Network-on-Chip Architecture"** in 8th IEEE/ACM International Symposium on Networks-on-Chip (NoCS), Sept. 2014, Italy.
+25. I. Seitanidis, A. Psarras, G. Dimitrakopoulos, C. Nicopoulos **"ElastiStore: An Elastic Buffer Architecture for Network-on-Chip Routers"**, in Design Automation and Test in Europe (DATE), Mar. 2014. 
+26. G. Dimitrakopoulos, I. Seitanidis, A. Psarras, K. Tsiouris, P. Matthaiakis, J. Cortadella **"Hardware Primitives for the Synthesis of Multithreaded Elastic Systems"**, in Design Automation and Test in Europe (DATE), Mar. 2014. 
+27. G. Dimitrakopoulos, N. Georgiadis, C. Nicopoulos, E. Kalligeros, **"Switch Folding: Network-on-Chip Routers with Time-Multiplexed Output Ports"**, in Design Automation and Test in Europe (DATE), Mar. 2013. 
+28. A. Roca, J. Flich, G. Dimitrakopoulos “**DESA: Distibuted Elastic Switch Architecture for efficient Networks-on-FPGAs**”, in the International Conference on Field-Programmable Logic and Applications (FPL 2012) Oslo, Norway, August 2012. 
+29. G. Dimitrakopoulos, E. Kalligeros, “**Dynamic-Priority Arbiter and Multiplexer Soft Macros for On-Chip Networks Switches**”, in ACM Design Automation and Test in Europe (DATE), Mar. 2012. 
+30. G. Dimitrakopoulos, E. Kalligeros, “**Low-cost fault-tolerant switch allocator for network-on-chip routers**”, Proc. of the 6th Interconnection Network Architecture, On-Chip Multi-Chip Workshop (INA-OCMC), Jan. 2012. 
+31. G. Dimitrakopoulos, C. Kachris, E. Kalligeros, “**Scalable arbiters and multiplexers for on-FPGA interconnection networks**”, in Proceedings of the 21st International Conference on Field-Programmable Logic and Applications (FPL 2011) Chania, Greece, September 2011. 
+32. G. Dimitrakopoulos and K. Galanopoulos, “**Switch allocator for bufferless network-on-chip routers**”, in Proceedings of the Fifth ACM Interconnection Network Architecture, On-Chip Multi-Chip Workshop (INA-OCMC) Heraklion, Greece, January 2011.
+33. G. Dimitrakopoulos, N. Chrysos, K. Galanopoulos “**Fast Arbiters for On-Chip Network Switches**”, in IEEE International Conference on Computer Design (ICCD), Oct. 2008.
+34. N. Chrysos and G. Dimitrakopoulos “**Backlog-Aware Crossbar Schedulers: A New Algorithm and its Efficient Hardware Implementation**”, in IEEE Symposium on High-Performance Interconnects (HOT-Interconnects), pp. 67-74, Aug. 2008. 
+35. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**An Energy-Delay Efficient Subword Permutation Unit**”, in IEEE Conference on Application Specific Systems, Architectures, and Processors (ASAP), Sept. 2006.
+36. G. Dimitrakopoulos, C. Mavrokefalidis, K. Galanopoulos, and D. Nikolos, “**Fast Bit Permutation Unit for Media-Enhanced Microprocessor**”, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2006. 
+37. G. Dimitrakopoulos, D. G. Nikolos, H. T. Vergos, D. Nikolos, and C. Efstathiou, “**New architectures for modulo 2^n^-1 adders**”, in IEEE International Conference on Electronics, Circuits and Systems (ICECS), December 2005. 
+38. G. Dimitrakopoulos and D. Nikolos, “**Closed-Form Bounds for Interconnect-Aware Minimum Delay Gate Sizing**”, in International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2005), Lectures Notes in Computer Science, vol. 3728, pp. 308 - 317, Sep. 2005.
+39. G. Dimitrakopoulos, P. Kolovos, P. Kalogerakis, and D. Nikolos, “**Design of High-Speed Low-Power VLSI Parallel-Prefix Adders**”, in Proc. of the 14th International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2004), Lectures Notes in Computer Science, vol. 3254, pp. 248 - 257, August 2004.
+40. C. Efstathiou, H. Vergos, G. Dimitrakopoulos, and D. Nikolos, “**Efficient Modulo 2^n^ + 1 Tree Multipliers for Diminished-1 Operands**”, in Proceedings of the IEEE International Conference on Electronics, Circuits, and Systems (ICECS’ 03), December 2003, pp. 200-203. 
+41. G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, **"A Family of Parallel Prefix Modulo 2^n^-1 Adders**’, in Proc. of the IEEE International Conference on Application-Specific Systems, Architectures, and Processors (ASAP’03), June 2003, pp. 326 - 336. 
+42. G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, “**Virtual-Scan: A Novel Approach for Software-Based Self-Testing of Microprocessors**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’03), May 2003, pp. 237-240. 
+43. G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, “**A Systematic Methodology for Designing Area-Time Efficient Parallel-Prefix Modulo 2n - 1 Adders**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’ 03), May 2003, pp. 225-228. 
+44. G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, "**Software-Based Self-testing of Microprocessors by Exploiting a Virtual Scan Path**’, in the Supplement of the 4th European Dependable Computing Conference (EDCC-4), October 2002, pp. 23-24.
+45. G. Dimitrakopoulos and V. Paliouras, “**Graph-Based Optimization for a CSD-Enhanced RNS Multiplier**”, in Proceedings of the 45th IEEE International Midwest Symposium on Circuits and Systems (MWSCAS’02), August 2002, Volume III, pp. 648-651.
+46. G. Dimitrakopoulos, D. Nikolos, and D. Bakalis, “**Bit-Serial Test Pattern Generation by an Accumulator Behaving as a Non-Linear Feedback Shift Register**”, in Proc. of the 8th IEEE International On-Line Testing Workshop (IOLTW’02), July 2002, pp. 152-157.
 
 #### Book and Book Chapters
 
@@ -218,22 +221,27 @@
 
 #### PhD thesis examination committee 
 
+##### Completed
+
 1. Dario Suarez Gracia, University of Zaragoza, Spain, Nov. 2011 Advisor: Victor Vinals
 2. Αna Βosque, University of Zaragoza, Spain, Nov. 2011 Advisors: José M. Llabería, Pablo Ibáñez, Victor Vinals
 3. Antoni Roca, Universitat Politècnica de València (UPV), Spain, 2012 Advisor: Jose Flich
 4. Ioannis Kouretas, University of Patras, July 2012, Advisor: Vassilis Paliouras
 5. Nikita Nikitin, Universitat Politècnica de Catalunya (UPC), Spain, April 2013, Advisor: Jordi Cortadella
 6. Pavlos Mattheakis, University of Crete, May 2013, Advisor: Christos Sotiriou
-8. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
+7. Panagiotis Georgiou, University of Ioannina, Oct. 2019, Advisor: Chrysovalantis Kavousianos 
 8. Ahsen Ejaz, Chalmers University of Technology, Gotenbord, Sweden, 2020, Advisor: Ioannis Sourdis
 9. Savvas Moisidis, Democritus Universisty of Thrace, 2021, Advisor: I. Karafyllidis
 10. Tomás Picornell Sanjuan, Universitat Politècnica de València (UPV), Spain, 2021 Advisor: Jose Flich, Carles Fernandez Luz
 11. Vassilis Ntinas, Democritus University of Thrace, Advisor: G. Syrakoulis
-12. Kleanthis Papachatzopoulos, University of Patras, [ongoing] Advisor: V. Paliouras
-13. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-14. Paraskevi Dragkola, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-15. Εvagelos Tsipas, Democritus University of Thrace, [ongoing] Advisor: G. Syrakoulis
-16. Nikolaos Delianidis, Democritus University of Thrace [ongoing], Advisor: N. Papanikolaou
+
+##### Ongoing
+
+1. Kleanthis Papachatzopoulos, University of Patras, Advisor: V. Paliouras
+2. Theodoros-Panagiotis Chatzinikolaou, Democritus University of Thrace, Advisor: G. Syrakoulis
+3. Paraskevi Dragkola, Democritus University of Thrace, Advisor: G. Syrakoulis
+4. Εvagelos Tsipas, Democritus University of Thrace, Advisor: G. Syrakoulis
+5. Nikolaos Delianidis, Democritus University of Thrace, Advisor: N. Papanikolaou
 
 ### Professional Activities and Service
 
