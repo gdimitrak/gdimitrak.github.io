@@ -31,14 +31,12 @@
 - Best Paper Award - T track in Design Automation and Test in Europe conferene for the paper "Error-Shielded Register Renaming Subsystem for a Dynamically Scheduled Out-of-Order Core” March 2019. 
 - [EDAA Outstanding Dissertation Award ](https://www.edaa.com/dissertation_award.html)for 2018 to my PhD student Anastasios Psarras in "Topic 2 – New directions in system-on-chip platforms co-design, novel emerging architectures and system-level management. " for his PhD thesis "High-performance Networks-on-Chip".
 - Second position to the [timing optimization constest ](http://www.tauworkshop.com/2019/contest.html)organized by the TAU workshop - ACM International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems (TAU), March 2019. 
-- Hipeac paper award for the paper "Timing Driven Incremental Multi-Bit Register Composition Using a Placement Aware ILP formulation" presented in Design Automation Conference (DAC) 2017. 
 - Hipeac technology transfer award "Network-on-Chip for Think Silicon’s ultra-low-power GPU", 2015. 
 - Best Paper Award - D track in Design Automation and Test in Europe conferene for the paper "PhaseNoC: TDM Scheduling at the Virtual-Channel Level for Efficient Network Traffic Isolation", March 2015.
 
 ### Current Research interests
 
-* RISC-V data-parallel accelerators (vector processing)
-* Systolic architecture
+* RISC-V vector and systolic data-parallel accelerators 
 * High level synthesis design flows for agile ASIC design
 * Fault tolerant microarchitecture
 * EDA physical synthesis algorithms and flows
@@ -47,7 +45,7 @@
 
 #### Journal Papers
 
-1. D. Mangiras, D. Chinnery, G. Dimitrakopoulos, <b>Task-based Parallel Programming for Gate Sizing</b>, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, accepted Aug. 2022.
+1. D. Mangiras, D. Chinnery, G. Dimitrakopoulos, <b>"Task-based Parallel Programming for Gate Sizing"</b>, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, accepted Aug. 2022.
 2. D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, in IEEE Transactions on VLSI Systems, vol: 30, no. 2, Feb. 2022.
 3. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in MDPI Technologies (special issue on MOCAST-21), Nov. 2021.
 4. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
