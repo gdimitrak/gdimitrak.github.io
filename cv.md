@@ -222,6 +222,7 @@
 31. Ioanna Zoumpoulidou, "Synthesis of approximate arithmetic units", 2022
 32. Despoina Michailidou, "Exploration of Systolic Architectures", 2022
 33. Markos Stefanidis, "FPGA prototype of an HDR image synthesis accelerator", 2022
+34. Vasileios Titopoulos, "Design of a scalable vector processor for RISCV ISA", 2022
 
 #### PhD thesis examination committee 
 
@@ -252,7 +253,6 @@
 * *Guest Editor*
   - IET Computer and Digital Techniques, special issue Interconnection Network Architectures: On chip and off chip networks, with Cyriel Minkenberg, IBM Zurich 
   - Springer Design automation embedded systems, special issue on Network-on-Chip Architectures, with Soeren Sonntag, Intel, Germany and Davide Bertozzi, Univ. of Ferrara, Italy
-
 * *General Chair*
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2014), Vienna, Austria.
 * *Technical program chair*
@@ -260,17 +260,16 @@
   - International Workshop on Network-on architectures NoCArc - 2014 (in conjunction with the IEEE/ACM International Symposium on Microarchitecture - MICRO), Cambridge, UK
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2013), Berlin, Germany
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
-
 * *Technical program committee member*
   - VLSI-SoC 2022 - Track Chair (Digital circuits, low-power design, SoC, NoC, and reconfigurable architectures)
   - ASAP 2022
   - ISVLSI 2022
   - DAC 2022
   - ISPD 2022, 2023
+  - MOCAST 2021, 2022, 2023
   - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022
   - ARC 2018, 2019, 2020, 2021, 2022
-  - MOCAST 2021, 2022
   - DATE 2011, 2013, 2014, 2015, 2016
   - NOCS 2015, 2016, 2017, 2018, 2019
   - NoCArc 2008-2018
@@ -280,7 +279,6 @@
   - INA-OCMC 2015, 2011, 2010
   - IEEE conference on VLSI design 2015, 2014
   - ICECS 2010
-  
 * *Reviewer*
 Regural reviewer for all IEEE Transactions covering my area of research (IEEE Transactions on Computers, IEEE Transactions on Circuits and Systems I, ΙΕΕΕ Transactions on VLSI Systems, IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems,IEEE Transactions on Parallel and Distributed System) and other closely related journals Integration, the VLSI Journal, IET Computer and Digital techniques, IET Circuits, Devices and Systems, IET Electronics Letters.
 
