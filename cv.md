@@ -45,13 +45,11 @@
 
 #### Journal Papers
 
-1.  D. Filippas, C. Nicopoulos, and G. Dimitrakopoulos, <b>Templatized Fused Vector Floating-Point Dot Product for High-Level 
-   Synthesis</b>, in Journal of Low Power Electronics and Applications, Oct. 2022.
-2. D. Mangiras, D. Chinnery, G. Dimitrakopoulos, <b>"Task-based Parallel Programming for Gate Sizing"</b>, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, accepted Aug. 2022.
+1.  D. Filippas, C. Nicopoulos, and G. Dimitrakopoulos, **"Templatized Fused Vector Floating-Point Dot Product for High Level Synthesis"**, in Journal of Low Power Electronics and Applications, 12(4), 2022.
+2. D. Mangiras, D. Chinnery, G. Dimitrakopoulos, **"Task-based Parallel Programming for Gate Sizing"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, accepted Aug. 2022.
 3. D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, in IEEE Transactions on VLSI Systems, vol: 30, no. 2, Feb. 2022.
-4. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in MDPI Technologies (special issue on MOCAST-21), Nov. 2021.
-5. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**,
-   in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic), vol. 9, no. 3, pp. 1479-1488, July-Sept. 2021.
+4. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in Technologies, 2021, 9(4):92, 2021.
+5. G. Dimitrakopoulos, K. Papachatzopoulos, and V. Paliouras, **"Sum Propagate Adders"**, in IEEE Transactions on Emerging Topics in Computing (Special Section on Emerging and Impacting Trends on Computer Arithmetic), vol. 9, no. 3, pp. 1479-1488, July-Sept. 2021.
 6. A. Stefanidis, D. Mangiras, C. Nicopoulos, D. Chinnery, G. Dimitrakopoulos **"Autonomous Application of Netlist Transformations inside Lagrangian Relaxation-based Optimization"**, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 8, pp. 1672-1686, Aug. 2021.
 7. D. Konstantinou, C. Nicopoulos, J. Lee, and G. Dimitrakopoulos, **"Multicast-enabled Network-on-Chip Routers leveraging Partitioned Allocation and Switching”** , in Integration: the VLSI journal, Elsevier, vol. 77, pp. 104-112, 2021.
 8. D. Mangiras, A. Stefanidis, I. Seitanidis, C. Nicopoulos, G. Dimitrakopoulos **"Timing-Driven Placement Optimization Facilitated by Timing-Compatibility Flip-Flop Clustering"** , in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 10 , Oct. 2020, pp. 2835 - 2848.
@@ -79,15 +77,15 @@
 
 #### Conference Papers
 
-1. C. Peltekis, D. Filippas, G. Dimitrakopoulos, C. Nicopoulos, D. Pnevmatikatos, <b>ArrayFlex: A Systolic Array Architecture with Configurable Transparent Pipelining </b>, in Design Automation and Test in Europe (DATE), Apr. 2023.
+1. C. Peltekis, D. Filippas, G. Dimitrakopoulos, C. Nicopoulos, D. Pnevmatikatos, **"ArrayFlex: A Systolic Array Architecture with Configurable Transparent Pipelining"**, in Design Automation and Test in Europe (DATE), Apr. 2023.
 2. Y. Sazeides, A. Gerber, R. Gabor, A. Bramnik, G. Papadimitirou, D. Gizopoulos,
-   C. Nicopoulos, G. Dimitrakopoulos, K. Patsidis, <b> IDLD: Instantaneous Detection of Leakage and Duplication of Identifiers used for Register Renaming </b>, in ACM/IEEE International Symposium on Microarchitecture (MICRO), Oct. 2022.
-3. D. Filippas, C. Nicopoulos, G. Dimitrakopoulos, **LeapConv: An Energy-efficient Streaming Convolution Engine with Reconfigurable Stride** , in IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022), July 2022.
+   C. Nicopoulos, G. Dimitrakopoulos, K. Patsidis, **"IDLD: Instantaneous Detection of Leakage and Duplication of Identifiers used for Register Renaming"**, in ACM/IEEE International Symposium on Microarchitecture (MICRO), Oct. 2022.
+3. D. Filippas, C. Nicopoulos, G. Dimitrakopoulos, **"LeapConv: An Energy-efficient Streaming Convolution Engine with Reconfigurable Stride"** , in IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022), July 2022.
 4. C. Peltekis, D. Filippas, C. Nicopoulos, G. Dimitrakopoulos, **"FusedGCN: A Systolic Three-Matrix Multiplication Architecture for Graph Convolutional Networks"** , in IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2022), July 2022.
 5. G. Dimitrakopoulos, A. Psarras, C. Nicopoulos, **"Virtual Channel Flow Control Across Mesochronous Clock Domains"** , in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), June 2022.
 6. D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), July 2021.[**Best Student Paper Award**]
 7. Y. Sazeides, A. Bramnik, R. Gabor, C. Nicopoulos, R. Canal, D. Konstantinou, G. Dimitrakopoulos, **"2D Error Correction for F/F based Arrays using In-Situ Real-Time Error Detection (RTD)",** in IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), Oct. 2020.
-8. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  <b> "Memristive Learning Cellular Automata: Theory and Applications", </b> in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
+8. R. Karamani, I. Fyrigos, V. Ntinas, O. Liolis, G. Dimitrakopoulos, M. Altun, A. Adamatzky, M. R. Stan, G. Ch. Sirakoulis,  **"Memristive Learning Cellular Automata: Theory and Applications"**, in Proc. IEEE Int. Conf. on Modern Circuits and Systems Technologies (MOCAST), Germany, Sept 2020.
 9. K. Patsidis, C. Nicopoulos, G. Sirakoulis, G. Dimitrakopoulos, **"RISC-V^2^: a Scalable RISC-V Vector Processor",**  in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
 10. T. Xatzinikolaou, I.-A. Fyrigos, R.-E. Karamani, V. Ntinas, G. Dimitrakopoulos, S. Cotofana, G. Sirakoulis, **"Memristive Oscillatory Circuits for Resolution of NP-Complete Logic Puzzles: Sudoku Case"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
 11. D. Konstantinou, C. Nicopoulos, J. Lee, G. Sirakoulis, G. Dimitrakopoulos, **"SmartFork: Partitioned Multicast Allocation and Switching in Network-on-Chip Routers"**, in IEEE International Symposium on Circuits and Systems (ISCAS), May 2020.
