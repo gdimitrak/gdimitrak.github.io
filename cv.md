@@ -266,12 +266,12 @@
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 * *Technical program committee member*
   - DAC 2022, 2023
+  - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023
   - ISPD 2022, 2023
   - MOCAST 2021, 2022, 2023
   - VLSI-SoC 2022 - Track Chair (Digital circuits, low-power design, SoC, NoC, and reconfigurable architectures)
   - ASAP 2022
   - ISVLSI 2022
-  - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022
   - ARC 2018, 2019, 2020, 2021, 2022
   - DATE 2011, 2013, 2014, 2015, 2016
