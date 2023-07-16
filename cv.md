@@ -47,7 +47,7 @@
 
 1.  A. Stefanidis, I. Zoumpoulidou, D. Filippas, G. Dimitrakopoulos, G. Ch. Sirakoulis, <b> "Synthesis of Approximate Parallel Prefix Adders" </b>, in IEEE Transactions on VLSI Systems, accepted June 2023.
 2.  D. Mangiras, D. Chinnery, G. Dimitrakopoulos, **"Task-based Parallel Programming for Gate Sizing"** in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 42, no. 4, pp. 1309-1322, April 2023.
-3.  D. Filippas, C. Nicopoulos, and G. Dimitrakopoulos, <b>"Streaming Dilated Convolution Engine"</b>, in IEEE Transactions on VLSI Systems, accepted Dec. 2022.
+3.  D. Filippas, C. Nicopoulos, and G. Dimitrakopoulos, <b>"Streaming Dilated Convolution Engine"</b>, in IEEE Transactions on VLSI Systems, vol. 31, no. 3, pp. 401 - 405, March 2023.
 4.  D. Filippas, C. Nicopoulos, and G. Dimitrakopoulos, **"Templatized Fused Vector Floating-Point Dot Product for High Level Synthesis"**, in Journal of Low Power Electronics and Applications, 12(4), 2022.
 5.  D. Filippas, N. Margomenos, N. Mitianoudis, C. Nicopoulos, and G. Dimitrakopoulos, **"Low-Cost On-Line Convolution Checksum Checker"**, in IEEE Transactions on VLSI Systems, vol: 30, no. 2, Feb. 2022.
 6.  D. Mangiras, G. Dimitrakopoulos, **"Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment"**, in Technologies, 2021, 9(4):92, 2021.
