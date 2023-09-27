@@ -177,17 +177,18 @@
 #### Current students
 
 1. Dimitrios Konstantinou, PhD student, working on "Physically scalable heterogeneous network on chip architectures"
-3. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
-4. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
-5. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels"
-6. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
+2. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
+3. Dionissis Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators"
+4. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels"
+5. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
+6. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using ML techniques"
 
 
 #### Graduated 
 
 **PhD**
 
-1. Anastasios Psarras, PhD, "High performance Networks on Chip", 2017
+1. Anastasios Psarras, PhD, "tHigh performance Networks on Chip", 2017
 2. Ioannis Seitanidis, PhD, "Low power Networks on chip", 2019
 3. Dimitrios Mangiras, PhD "Timing optimization techniques for scalable physical synthesis of digital integrated circuits", 2022
 
