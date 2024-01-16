@@ -129,7 +129,7 @@
 46.  G. Dimitrakopoulos and D. Nikolos, “**Closed-Form Bounds for Interconnect-Aware Minimum Delay Gate Sizing**”, in International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2005), Lectures Notes in Computer Science, vol. 3728, pp. 308 - 317, Sep. 2005.
 47.  G. Dimitrakopoulos, P. Kolovos, P. Kalogerakis, and D. Nikolos, “**Design of High-Speed Low-Power VLSI Parallel-Prefix Adders**”, in Proc. of the 14th International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS 2004), Lectures Notes in Computer Science, vol. 3254, pp. 248 - 257, August 2004.
 48.  C. Efstathiou, H. Vergos, G. Dimitrakopoulos, and D. Nikolos, “**Efficient Modulo $2^n$ + 1 Tree Multipliers for Diminished-1 Operands**”, in Proceedings of the IEEE International Conference on Electronics, Circuits, and Systems (ICECS’ 03), December 2003, pp. 200-203. 
-49.  G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, **"A Family of Parallel Prefix Modulo 2^n^-1 Adders**’, in Proc. of the IEEE International Conference on Application-Specific Systems, Architectures, and Processors (ASAP’03), June 2003, pp. 326 - 336. 
+49.  G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, **"A Family of Parallel Prefix Modulo $2^n$-1 Adders**’, in Proc. of the IEEE International Conference on Application-Specific Systems, Architectures, and Processors (ASAP’03), June 2003, pp. 326 - 336. 
 50.  G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, “**Virtual-Scan: A Novel Approach for Software-Based Self-Testing of Microprocessors**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’03), May 2003, pp. 237-240. 
 51.  G. Dimitrakopoulos, H. T. Vergos, D. Nikolos, and C. Efstathiou, “**A Systematic Methodology for Designing Area-Time Efficient Parallel-Prefix Modulo 2^n - 1 Adders**”, in Proc. of the IEEE International Symposium on Circuits and Systems (ISCAS’ 03), May 2003, pp. 225-228. 
 52.  G. Dimitrakopoulos, X. Kavousianos, and D. Nikolos, "**Software-Based Self-testing of Microprocessors by Exploiting a Virtual Scan Path**’, in the Supplement of the 4th European Dependable Computing Conference (EDCC-4), October 2002, pp. 23-24.
@@ -237,12 +237,13 @@
 32. Despoina Michailidou, "Exploration of Systolic Architectures", 2022
 33. Markos Stefanidis, "FPGA prototype of an HDR image synthesis accelerator", 2022
 34. Vasileios Titopoulos, "Design of a scalable vector processor for RISCV ISA", 2022
-35. Dimitrios Mylonidis, "Random Instruction generator for RISC-V Vector Extensions", 2022
-36. Kosmas Alexandridis, "RISC-V Vector processors with support for sparse data", 2023
-37. Spyros Kolaggis, "Sparse Matrix Multiplication for accelerating Deep Learning Applications", 2023
-38. Diamantis Patsidis, "Customizable Superscalar Processor in HLS", 2023
-39. Alexandros Askepidis, "UVM-based verification of a UART module", 2023
-40. Efstathios Katsimpinis, "Template digit-serial arithmetic operators for HLS", 2023
+35. Stratos Karakontis, "CNN accelerators in FPGAs", 2022
+36. Dimitrios Mylonidis, "Random Instruction generator for RISC-V Vector Extensions", 2022
+37. Kosmas Alexandridis, "RISC-V Vector processors with support for sparse data", 2023
+38. Spyros Kolaggis, "Sparse Matrix Multiplication for accelerating Deep Learning Applications", 2023
+39. Diamantis Patsidis, "Customizable Superscalar Processor in HLS", 2023
+40. Alexandros Askepidis, "UVM-based verification of a UART module", 2023
+41. Efstathios Katsimpinis, "Template digit-serial arithmetic operators for HLS", 2023
 
 #### PhD thesis examination committee 
 
