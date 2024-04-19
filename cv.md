@@ -1,4 +1,4 @@
-## Giorgos Dimitrakopoulos - Associate Professor
+## Giorgos Dimitrakopoulos - Professor
 
 | Address                                                      | Contact                         |
 | ------------------------------------------------------------ | ------------------------------- |
@@ -9,7 +9,8 @@
 
 ### Positions held
 
-- Feb 2020 - Now: Associate Professor, Electrical and Computer Engineering Dept., Democritus University of Thrace, Xanthi, Greece.
+- April 2024 - now: Professor, Electrical and Computer Engineering Dept., Democritus University of Thrace, Xanthi, Greece.
+- Feb 2020 - April 2024: Associate Professor, Electrical and Computer Engineering Dept., Democritus University of Thrace, Xanthi, Greece.
 - August 2015-Jan 2020: Assistant Professor, Electrical and Computer Engineering Dept., Democritus University of Thrace, Xanthi, Greece.
 - January 2012- July 2015: Lecturer, Electrical and Computer Engineering Dept., Democritus University of Thrace, Xanthi, Greece.
 - June 2010 – December 2011: Lecturer, Informatics and Communications Engineering Department of the University of West Macedonia, Kozani, Greece.
