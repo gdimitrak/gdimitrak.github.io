@@ -2,8 +2,8 @@
 
 | Address                                                      | Contact                         |
 | ------------------------------------------------------------ | ------------------------------- |
-| Electrical and Computer Engineering<br>Democritus University of Thrace | email: dimitrak@ee.duth.gr      |
-| Kimmeria Campus Building B’ (1.11)                           | web: http://gdimitrak.github.io |
+| Electrical and Computer Engineering<br />Democritus University of Thrace | email: dimitrak@ee.duth.gr      |
+| Kimmeria Campus Building B’ (1.10)                           | web: http://gdimitrak.github.io |
 | GR67100, Xanthi Greece                                       | phone: (+30)-2541079543         |
 
 
