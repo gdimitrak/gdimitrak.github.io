@@ -1,1 +1,1 @@
-Website of Giorgos Dimitrakopoulos, Associate Professor, Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, Greece.
+Website of Giorgos Dimitrakopoulos, Professor of Digital Integrated Circuits at Electrical and Computer Engineering, Democritus University of Thrace, Xanthi, Greece.
