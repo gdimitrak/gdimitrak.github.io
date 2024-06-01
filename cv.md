@@ -157,7 +157,7 @@
 
 * Research grant for "AI for SoC Verification", by Smart Silicon (Oct 2023 - Sept. 2026) - Principal Investigator.
 * Research grant for “RISC-V compatible processor supporting vector extensions”, by Codasip, (Nov 2022 - Nov 2025). - Principal investigator
-* Research grant for “High Level Synthesis for System on Chip”, by Mentor Graphics, a Siemens Business, Oregon, USA (Jan 2019 - Dec 2023). - Principal investigator
+* Research grant for “High Level Synthesis for System on Chip”, by Mentor Graphics, a Siemens Business, Oregon, USA (Jan 2019 - Dec 2024). - Principal investigator
 * Subcontractor in PAVET 2013: Multicore and Multithreaded Graphics Processingn Units for 3D graphics in embedded systems”, ThinkSilicon, Patras (1/4/2014-30/4/2015) - Principal Investigator
 * 01/12/2020 – 31/12/2023: “ASPIDA: Design and implementation of system for improving the quality of life of elderly people”, Researcher
 * “Τhermicool: Thermoelectric cooling using innovative multistage active control modules”, CLEAN SKY RESEARCH and TECHNOLOGY DEVELOPMENT PROJECTS,. DUTH (1/7/2014-30/11/2014) - Researcher
@@ -248,6 +248,8 @@
 39. Diamantis Patsidis, "Customizable Superscalar Processor in HLS", 2023
 40. Alexandros Askepidis, "UVM-based verification of a UART module", 2023
 41. Efstathios Katsimpinis, "Template digit-serial arithmetic operators for HLS", 2023
+42. Stergios Kiourtsis "Cycle-accurate modelling of AMBA AHB5 interfaces for High-Level Synthesis", 2024
+43. Sokratis Mpitzis, "Vector parallel in-memory processing with standard-cell-based memories", 2024
 
 #### PhD thesis examination committee 
 
@@ -289,10 +291,10 @@
 * *Technical program committee member*
   - AICAS 2024 (track chair Architecture for AI computing)
   - DAC 2022, 2023
-  - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023
+  - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023, 2024
   - ISPD 2022, 2023, 2024
-  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022, 2023
-  - MOCAST 2021, 2022, 2023
+  - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022, 2023, 2024
+  - MOCAST 2021, 2022, 2023, 2024
   - VLSI-SoC 2022 - Track Chair (Digital circuits, low-power design, SoC, NoC, and reconfigurable architectures)
   - ASAP 2022
   - ISVLSI 2022
