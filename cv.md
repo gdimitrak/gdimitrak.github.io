@@ -28,6 +28,7 @@
 
 ### Honors and Awards 
 
+- [Best Student Paper Award ](https://gdimitrak.github.io/img/aicas24-best-student-paper-award.jpg)for my PhD students Christodoulos Peltekis and Kosmas Alexandridis at IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) 2024 for the paper "Reusing Softmax Hardware Unit for GELU Computation in Transformers"
 - Best Student Paper Award for my PhD student D. Mangiras - Electronics, Circuits and Systems Track of Modern Circuits and Systems Technologies (MOCAST) conference for the paper "Incremental Lagrangian Relaxation based Discrete Gate Sizing and Threshold Voltage Assignment", July 2021.
 - Best Paper Award - T track in Design Automation and Test in Europe conferene for the paper "Error-Shielded Register Renaming Subsystem for a Dynamically Scheduled Out-of-Order Core” March 2019. 
 - [EDAA Outstanding Dissertation Award ](https://www.edaa.com/dissertation_award.html)for 2018 to my PhD student Anastasios Psarras in "Topic 2 – New directions in system-on-chip platforms co-design, novel emerging architectures and system-level management. " for his PhD thesis "High-performance Networks-on-Chip".
