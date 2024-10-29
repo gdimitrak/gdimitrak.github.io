@@ -158,6 +158,7 @@
 
 ### Research Projects
 
+* Research graph for "Hardware accelerators for privacy preserving technologies", by Nokia (Jul 2024 - July 2027) - Principal investigator 
 * Research grant for "AI for SoC Verification", by Smart Silicon (Oct 2023 - Sept. 2026) - Principal Investigator.
 * Research grant for “RISC-V compatible processor supporting vector extensions”, by Codasip, (Nov 2022 - Nov 2025). - Principal investigator
 * Research grant for “High Level Synthesis for System on Chip”, by Mentor Graphics, a Siemens Business, Oregon, USA (Jan 2019 - Dec 2024). - Principal investigator
