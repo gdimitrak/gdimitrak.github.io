@@ -88,7 +88,6 @@
 
 #### Conference Papers
 
-6.   V. Titopoulos, K. Alexandridis, C. Peltekis, C. Nicopoulos, G. Dimitrakopoulos, **"IndexMAC: A Custom RISC-V Vector Instruction to Accelerate Structured-Sparse Matrix Multiplications"**, in Design Automation and Test in Europe (DATE), March 2024.
 1.   V. Titopoulos, G. Alexakis, C. Nicopoulos, G. Dimitrakopoulos,<b>"Efficient Implementation of RISC-V Vector Permutation Instructions",</b>IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July, 2025.
 2.    K. Alexandridis, V. Titopoulos, G. Dimitrakopoulos, <b>"Low-Cost FlashAttention with Fused Exponential and Multiplication Hardware Operators",</b>IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July, 2025.
 3.   C. Peltekis, C. Nicopoulos, G. Dimitrakopoulos, <b>"Periodic Online Testing for Sparse Systolic Tensor Arrays"</b>, International Conference on Modern Circuits and Systems Technologies (MOCAST), June 2025.   
