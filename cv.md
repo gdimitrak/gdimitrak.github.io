@@ -304,13 +304,13 @@
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2013), Berlin, Germany
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 * *Technical program committee member*
-  - VLSI-SoC 2025 - Track chair (Digital design), 2022 - Track Chair (Digital circuits, low-power design, SoC, NoC, and reconfigurable architectures)
   - ISVLSI 2022, 2025 (track chair Digital circuits and FPGA based designs)
   - DATE 2011, 2013, 2014, 2015, 2016, 2025, 2026
   - AICAS 2024 (track chair Architecture for AI computing)
   - DAC 2022, 2023
   - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023, 2024, 2025
   - ISPD 2022, 2023, 2024
+  - VLSI-SoC 2022 - Track Chair (Digital circuits, low-power design, SoC, NoC, and reconfigurable architectures)
   - SAMOS 2014, 2015, 2016, 2017, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025
   - MOCAST 2021, 2022, 2023, 2024, 2025
   - ASAP 2022
