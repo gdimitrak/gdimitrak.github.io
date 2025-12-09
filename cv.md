@@ -38,9 +38,10 @@
 
 ### Current Research interests
 
-* RISC-V vector and systolic data-parallel accelerators 
-* High level synthesis design flows for agile ASIC design
-* ML-driven digital integrated circuits design & verification
+* RISC-V vector and systolic data-parallel accelerators for ML 
+* Hardware accelerators for privacy preserving technologies
+* AI-Agent driven digital integrated circuits design & verification
+* Ultra low cost RISCV CPUs
 
 ### Publications
 
@@ -197,11 +198,10 @@
 
 #### Current students
 
-1. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels"
-2. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
-3. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using Machine Learning techniques"
+1. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
+2. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using Machine Learning techniques"
+3. Georgios Alexakis, PhD student, working on "Hardware accelerators for privacy preserving technologies"
 4. Aggelos Kavaleros, PhD student, working on "Machine Learning accelerators for 2.5D/3D chipset-based integrated circuits"
-5. Georgios Alexakis, PhD student, working on "Hardware accelerators for privacy preserving technologies"
 
 
 #### Graduated 
@@ -213,6 +213,7 @@
 3. Dimitrios Mangiras, PhD "Timing optimization techniques for scalable physical synthesis of digital integrated circuits", 2022
 4. Dionysios Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators", 2025
 5. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
+6. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels"
 
 **MSc**
 
@@ -273,7 +274,9 @@
 47. Foivos Chaloftis, "Hardware Accelerators for Transformers in Machine Learning Applications", 2025
 48. Ioannis Dingolis, "SoC Interconnects enhanced with hardware security mechanisms", 2025
 49. Nikolaos Papaioanou, "RISCV processors with in-register-file processing", 2025
-50. Ioannis Marinos Koutoulas, "Matrix engine integrated in a RISCV processor"
+50. Ioannis Marinos Koutoulas, "Matrix engine integrated in a RISCV processor", 2025
+51. Stylianos Georgiou, "NTT hardware accelerator", 2025
+52. Iakovos Michailidis. "RISCV Binary bit manipulation instruction extension", 2025
 
 #### PhD thesis examination committee 
 
@@ -305,6 +308,7 @@
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2013), Berlin, Germany
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 * *Technical program committee member*
+  - IPDPS 2026 (architecture track)
   - ISVLSI 2022, 2025 (track chair Digital circuits and FPGA based designs)
   - DATE 2011, 2013, 2014, 2015, 2016, 2025, 2026
   - AICAS 2024 (track chair Architecture for AI computing)
