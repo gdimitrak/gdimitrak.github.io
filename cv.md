@@ -47,7 +47,7 @@
 
 #### Journal Papers
 
-1.    V. Titopoulos, G. Dimitrakopoulos, <b>"Vectorized FlashAttention with Low-cost Exponential Computation in RISC-V Vector Processors"</b>, in Journal of Supercomputing, Springer, accepted Feb. 2026.
+1.    V. Titopoulos, K. Alexandridis, G. Dimitrakopoulos, <b>"Vectorized FlashAttention with Low-cost Exponential Computation in RISC-V Vector Processors"</b>, in Journal of Supercomputing, Springer, accepted Feb. 2026.
 2.  K. Alexandridis, G. Dimitrakopoulos, <b>"H-FA: A Hybrid Floating-Point and Logarithmic Approach to Hardware Accelerated FlashAttention"</b>, in IEEE Transactions on Circuits and Systems for Artificial Intelligence, accepted Oct. 2025.
 3.  C. Peltekis, G. Dimitrakopoulos, <b>"GCN-ABFT: Low-Cost Online Error Checking for Graph Convolutional Networks"</b> in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 7, pp. 2836-2840, July 2025.
 4.  V. Titopoulos, K. Alexandridis, C. Peltekis, C. Nicopoulos, G. Dimitrakopoulos, <b>"Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors",</b> in IEEE Transactions on Computers, vol. 74, no. 4, pp. 1446-1460, April 2025.
