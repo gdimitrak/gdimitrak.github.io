@@ -202,7 +202,7 @@
 1. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
 2. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using Machine Learning techniques"
 3. Georgios Alexakis, PhD student, working on "Hardware accelerators for privacy preserving technologies"
-4. Aggelos Kavaleros, PhD student, working on "Machine Learning accelerators for 2.5D/3D chipset-based integrated circuits"
+4. Dimitrios Sekertzis, PhD student, working on "Algorithm Specific Integrated Circuits"
 
 
 #### Graduated 
@@ -279,6 +279,7 @@
 51. Stylianos Georgiou, "NTT hardware accelerator", 2025
 52. Iakovos Michailidis. "RISCV Binary bit manipulation instruction extension", 2025
 53. George Michailidis, "Hardware accelerators for Hash functions in ZKP systems", 2025
+54. Dimitrios Sekertzis, "Attention hardware accelerators using microscaling floating point formats", 2026.
 
 #### PhD thesis examination committee 
 
@@ -311,7 +312,7 @@
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 * *Technical program committee member*
   - IPDPS 2026 (architecture track)
-  - ISVLSI 2022, 2025 (track chair Digital circuits and FPGA based designs)
+  - ISVLSI 2022, 2025 (track chair Digital circuits and FPGA based designs), 2026
   - DATE 2011, 2013, 2014, 2015, 2016, 2025, 2026
   - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023, 2024, 2025, 2026
   - AICAS 2024 (track chair Architecture for AI computing)
