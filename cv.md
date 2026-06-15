@@ -38,10 +38,22 @@
 
 ### Current Research interests
 
-* RISC-V vector and systolic data-parallel accelerators for ML 
-* Hardware accelerators for privacy preserving technologies
-* AI-Agent driven digital integrated circuits design & verification
-* Ultra low cost RISCV CPUs
+My research explores the efficient realization of computation in silicon, combining innovations in algorithms, architectures, circuits, and EDA methodologies to design energy-efficient ASIC and FPGA computing systems. Currently focusing on:
+
+##### AI and Machine Learning Accelerators
+
+- Hardware accelerators for Transformers and LLMs
+- Spiking Neural Networks on digital hardware
+
+##### Privacy-Preserving and Secure Computing
+
+- Hardware accelerators for homomorphic-encryption-based privacy-preserving computation
+- Customized Systolic arrays for accelerating FHE and PQC workloads
+
+##### Processor and Computer Architecture
+
+- Ultra low cost bit serial RISCV CPUs
+- RISC-V Vector Processors
 
 ### Publications
 
@@ -331,7 +343,7 @@
   - UCHPC 2015, 2014, 2013, 2012
   - INA-OCMC 2015, 2011, 2010
   - IEEE conference on VLSI design 2015, 2014
-  - ICECS 2010
+  - ICECS 2010, 2026
 * *Reviewer*
 Regural reviewer for all IEEE Transactions covering my area of research (IEEE Transactions on Computers, IEEE Transactions on Circuits and Systems I, ΙΕΕΕ Transactions on VLSI Systems, IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems,IEEE Transactions on Parallel and Distributed System) and other closely related journals Integration, the VLSI Journal, IET Computer and Digital techniques, IET Circuits, Devices and Systems, IET Electronics Letters.
 
