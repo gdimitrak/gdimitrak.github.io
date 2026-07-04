@@ -38,3 +38,21 @@ footer {
 footer a {
   color: rgb(41, 132, 181);
 }
+
+/* Profile Header Layout */
+#profile-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px; 
+}
+
+#profile-photo {
+    max-width: 150px; 
+    height: auto;
+    border-radius: 4px;
+}
+
+#profile-info h2 {
+    margin-top: 0; /* Aligns the top of the text precisely with the top of the photo */
+    margin-bottom: 10px;
+}
