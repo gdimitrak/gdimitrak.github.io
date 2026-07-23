@@ -16,8 +16,9 @@ a:hover, a:focus { color: #23527c; text-decoration: underline; }
 .text-muted { color: #777; }
 .small, small { font-size: 85%; }
 
+p,li{text-align: justify;}
 
-.container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; max-width: 800px; }
+.container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; max-width: 1000px; }
 hr { margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 1px solid #eee; }
 
 
