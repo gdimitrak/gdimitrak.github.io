@@ -56,4 +56,5 @@ footer a {
 #profile-info h2 {
     margin-top: 0; /* Aligns the top of the text precisely with the top of the photo */
     margin-bottom: 10px;
+    max-width: 400px;
 }
