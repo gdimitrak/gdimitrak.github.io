@@ -216,10 +216,9 @@ My research explores the efficient realization of computation in silicon, combin
 
 #### Current students
 
-1. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures"
-2. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using Machine Learning techniques"
-3. Georgios Alexakis, PhD student, working on "Hardware accelerators for privacy preserving technologies"
-4. Dimitrios Sekertzis, PhD student, working on "Algorithm Specific Integrated Circuits"
+1. Kosmas Alexandridis, PhD student, working on "Automated Design and Verification of SoCs using Machine Learning techniques"
+2. Georgios Alexakis, PhD student, working on "Hardware accelerators for privacy preserving technologies"
+3. Dimitrios Sekertzis, PhD student, working on "Algorithm Specific Integrated Circuits"
 
 
 #### Graduated 
@@ -230,8 +229,9 @@ My research explores the efficient realization of computation in silicon, combin
 2. Ioannis Seitanidis, PhD, "Low power Networks on chip", 2019
 3. Dimitrios Mangiras, PhD "Timing optimization techniques for scalable physical synthesis of digital integrated circuits", 2022
 4. Dionysios Filippas, PhD student, working on "Design of Machine Learning Hardware Accelerators", 2025
-5. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning"
-6. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels"
+5. Apostolos Stefanidis, PhD student, working on "Integrated Circuits Design Automation with Reinforcement Learning", 2025
+6. Christodoulos Peltekis, PhD student, working on "Data parallel accelerators for Machine Learning Kernels", 2025
+7. Vasileios Titopoulos, PhD student, working on "Energy efficient vector processor architectures", 2026
 
 **MSc**
 
@@ -331,10 +331,10 @@ My research explores the efficient realization of computation in silicon, combin
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2013), Berlin, Germany
   - International Workshop on Interconnection Network Architectures, On-Chip Multi-Chip (INA-OCMC-2012), Paris, France.
 * *Technical program committee member*
+  - DATE 2011, 2013, 2014, 2015, 2016, 2025, 2026, 2027
   - ASPDAC 2027
   - IPDPS 2026 (architecture track)
   - ISVLSI 2022, 2025 (track chair Digital circuits and FPGA based designs), 2026
-  - DATE 2011, 2013, 2014, 2015, 2016, 2025, 2026, 2027
   - FPL 2011, 2012, 2013, 2014, 2015, 2020, 2021, 2022, 2023, 2024, 2025, 2026
   - AICAS 2024 (track chair Architecture for AI computing)
   - DAC 2022, 2023
